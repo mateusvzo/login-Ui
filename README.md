@@ -18,3 +18,7 @@
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+
+
+
+![login-ui-gift](https://github.com/user-attachments/assets/1fb1b758-e7f2-44db-8f84-5cf86495b31d)
